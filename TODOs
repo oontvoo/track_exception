@@ -1,0 +1,6 @@
+Wish list items
+
+- generalise to any exception 
+- allow "any exception to be specified at runtime
+- allow mesasge to include the instruction itself (as opposed to just offset)
+- or perhaps the mapped java functional/expr, when applicable 
