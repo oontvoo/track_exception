@@ -6,3 +6,6 @@ Usage:
 
    #run with agent
    java -agentpath:/path/to/compiled_agent <MainClass>
+   
+   # test npe with addition info
+   make test_npe
